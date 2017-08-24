@@ -1,0 +1,6 @@
+[submodule "submodules/rpavlik/cmake-modules"]
+	path = submodules/rpavlik/cmake-modules
+	url = https://github.com/rpavlik/cmake-modules.git
+[submodule "submodules/tcbrindle/sdl2-cmake-scripts"]
+	path = submodules/tcbrindle/sdl2-cmake-scripts
+	url = https://github.com/tcbrindle/sdl2-cmake-scripts.git
